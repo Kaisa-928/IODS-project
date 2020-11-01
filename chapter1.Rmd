@@ -7,7 +7,13 @@
 # This is a so-called "R chunk" where you can write R code.
 
 date()
-
+install.packages("rmarkdown")
 ```
-The text continues here.
+### Chapter 1. Exercise 1 {.css_class}   
 
+Everything on this course is new to me, so I am not sure how it will go. I will try to do the exercises, and let's see what happens!  Below is the link to my GitHub repository. 
+
+##### *GitHub repository link* I did not manage to knit the document. The programme asked to instand tinytex, but apparently it did not work out.  
+
+<https://github.com/your_github_username/IODS-project>
+[link](https://github.com/your_github_username/IODS-project)

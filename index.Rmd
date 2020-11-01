@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: Kaisa Autere
 output:
   html_document:
     theme: cosmo
@@ -16,6 +17,7 @@ output:
 
 ```{r child = "chapter1.Rmd"}
 # This will include Chapter 1 (that is updated in its own file) in the document.
+library(tinytex)
 ```
   
 ***

@@ -17,3 +17,6 @@ Everything on this course is new to me, so I am not sure how it will go. I will 
 
 <https://github.com/your_github_username/IODS-project>
 [link](https://github.com/your_github_username/IODS-project)
+
+### Chapter 1. Exercise 1, part 2. {.css_class} 
+Exercise 1 part 2, Just doing some testing whether the problem has solved itself out with the new installation. 
